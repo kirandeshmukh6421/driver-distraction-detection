@@ -22,9 +22,12 @@ This project aims to detect driver distractions using computer vision techniques
 ## Project Structure
 The project structure is organized as follows:
 
-app.py: Main application file containing the Streamlit app code.
+main.py: Main application file containing the Streamlit app code.
+
 models/: Directory for storing model weights files.
+
 alert.mp3: Alert sound file played when a distraction is detected.
+
 requirements.txt: List of required Python packages for easy installation.
 
 
