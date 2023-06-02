@@ -21,5 +21,14 @@ This project aims to detect driver distractions using computer vision techniques
 ## Usage
 Run the Streamlit app to interact with the driver distraction detection system:
 
-```shell
-streamlit run main.py
+   ```shell
+   streamlit run main.py \
+
+## Project Structure
+The project structure is organized as follows:
+
+app.py: Main application file containing the Streamlit app code.
+models/: Directory for storing model weights files.
+alert.mp3: Alert sound file played when a distraction is detected.
+requirements.txt: List of required Python packages for easy installation.
+
