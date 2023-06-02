@@ -1,0 +1,8 @@
+opencv-python
+ultralytics
+keras
+numpy
+streamlit
+moviepy
+Pillow
+pygame
