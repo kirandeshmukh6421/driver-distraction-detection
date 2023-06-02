@@ -2,6 +2,7 @@
 
 This project aims to detect driver distractions using computer vision techniques. It utilizes object detection to identify potential distractions in the driver's field of view and employs a distraction classification model to determine the type of distraction.
 
+
 ## Installation
 
 1. Clone the repository:
@@ -26,13 +27,16 @@ models/: Directory for storing model weights files.
 alert.mp3: Alert sound file played when a distraction is detected.
 requirements.txt: List of required Python packages for easy installation.
 
+
 ## Usage
 Run the Streamlit app to interact with the driver distraction detection system:
 
 ```shell
 streamlit run main.py 
 ```
-## Output
+
+
+## Predictions made on Input Video
 ![Output](/images/ezgif-1-ef1e0147eb.gif)
 
 
