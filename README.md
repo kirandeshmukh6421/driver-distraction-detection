@@ -33,7 +33,7 @@ Run the Streamlit app to interact with the driver distraction detection system:
 streamlit run main.py 
 ```
 ## Output
-![Output](https://imgur.com/gallery/gkIJeJ8](https://i.imgur.com/eBB15BG.gif)
+![Output](https://imgur.com/gallery/gkIJeJ8)
 
 
 
