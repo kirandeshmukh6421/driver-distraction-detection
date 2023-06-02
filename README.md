@@ -26,6 +26,10 @@ main.py: Main application file containing the Streamlit app code.
 
 models/: Directory for storing model weights files.
 
+videos/: Collection of videos to test inference of the model.
+
+images/: Collection of images to test inference of the model
+
 alert.mp3: Alert sound file played when a distraction is detected.
 
 requirements.txt: List of required Python packages for easy installation.
