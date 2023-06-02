@@ -18,12 +18,6 @@ This project aims to detect driver distractions using computer vision techniques
 
 4. Download the VGG19 model weights file and place it in the models directory. You can download the weights file from [here](https://drive.google.com/file/d/1TeYYVQOgMGzx9gZg-WknPoXt7YeDHpz0/view?usp=sharing).
 
-## Usage
-Run the Streamlit app to interact with the driver distraction detection system:
-
-   ```shell
-   streamlit run main.py \
-
 ## Project Structure
 The project structure is organized as follows:
 
@@ -31,4 +25,15 @@ app.py: Main application file containing the Streamlit app code.
 models/: Directory for storing model weights files.
 alert.mp3: Alert sound file played when a distraction is detected.
 requirements.txt: List of required Python packages for easy installation.
+
+## Usage
+Run the Streamlit app to interact with the driver distraction detection system:
+
+```shell
+streamlit run main.py 
+```
+## Output
+![Output](https://imgur.com/gallery/gkIJeJ8)
+
+
 
