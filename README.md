@@ -8,7 +8,7 @@ This project aims to detect driver distractions using computer vision techniques
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/driver-distraction-detection.git
+   git clone https://github.com/kirandeshmukh6421/driver-distraction-detection.git
 
 2. Install the required dependencies using pip:
    
