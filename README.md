@@ -43,7 +43,31 @@ Run the Streamlit app to interact with the driver distraction detection system:
 ```shell
 streamlit run main.py 
 ```
+## Hardware and Software Used
 
+### Hardware
+
+1. Platform: Google Colab Virtual Machine for Training
+2. CPU: Intel Xeon CPU for Training and Intel i7-8565U for Experiment
+3. GPU: Tesla K80 for Training and Nvidia MX200 for Experiment
+4. Memory: 13 GB RAM for Training and 16GB for Experiment
+5. Video Memory: 12 GB VRAM for Training and 2GB VRAM for Experiment
+6. Webcam: Lenovo Essesntial FHD Webcam
+
+### Software
+
+1. Operating System: Google Colab VM (Linux) for Training and Windows 11 for Experiment
+2. Software Used: Tensorflow, OpenCV, Pygame
+3. Programming Language: Python 3
+4. Server: Streamlit
+
+## System Requirements
+
+To run this project, please ensure that your system meets the following requirements for smooth performance:
+
+• Processor: 8 Core, 16 Thread Processor
+• Memory: Minimum of 16 GB RAM for computation
+• Video Memory: Minimum of 3 GB of VRAM for Object Detection and an extra 2 GB for feature extraction and the ANN.
 
 ## Predictions made on Input Video
 ![Output](/images/ezgif-1-ef1e0147eb.gif)
