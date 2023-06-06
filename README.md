@@ -65,9 +65,9 @@ streamlit run main.py
 
 To run this project, please ensure that your system meets the following requirements for smooth performance:
 
-• Processor: 8 Core, 16 Thread Processor
-• Memory: Minimum of 16 GB RAM for computation
-• Video Memory: Minimum of 3 GB of VRAM for Object Detection and an extra 2 GB for feature extraction and the ANN.
+Processor: 8 Core, 16 Thread Processor
+Memory: Minimum of 16 GB RAM for computation
+Video Memory: Minimum of 3 GB of VRAM for Object Detection and an extra 2 GB for feature extraction and the ANN.
 
 ## Predictions made on Input Video
 ![Output](/images/ezgif-1-ef1e0147eb.gif)
