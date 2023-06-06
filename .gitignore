@@ -1,0 +1,4 @@
+.vscode/settings.json
+yolov8m.pt
+uploaded_video.mp4
+models/vgg19_small.h5

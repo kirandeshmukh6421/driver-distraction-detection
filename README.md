@@ -30,6 +30,8 @@ videos/: Collection of videos to test inference of the model.
 
 images/: Collection of images to test inference of the model
 
+documents/: Directory for project-related files and documents
+
 alert.mp3: Alert sound file played when a distraction is detected.
 
 requirements.txt: List of required Python packages for easy installation.
